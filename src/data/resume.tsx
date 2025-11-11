@@ -109,7 +109,7 @@ export const DATA = {
       href: 'https://www.su.se/cmlink/stockholm-university',
       degree: "Master's Degree in Computer and Systems Sciences",
       logoUrl: '/su.svg',
-      start: '2025',
+      start: 'Sep 2025',
       end: 'Present',
     },
   ],
