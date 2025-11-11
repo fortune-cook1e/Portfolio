@@ -10,13 +10,17 @@ export const DATA = {
   description:
     'Software Engineer. I love building things and helping people. Very active on Github.',
   summary: `
-  In 2023, I decided to take a break from my full-time job to rethink my next five years. \n 
-  
-  During that time, I worked as a freelancer and contributed to open-source projects, which helped me transition into full-stack development. \n
 
-  Today, I’m pursuing a Master’s in Computer Systems and Sciences, and still building cool things along the way.
+  I’m an experienced Front-End Developer currently transitioning into Full-Stack development. \n
+  
+  I’m highly results-driven, turning interesting ideas—big or small—into code and sharing them as open-source projects on GitHub. \n
+
+
+  Outside of programming, I enjoy photography and traveling. I love making vlogs and share them on social media. I’m also an avid FPS gamer — if you play CS2, don’t hesitate to reach out! \n
+
+  Today, I’m pursuing a Master’s in Computer Systems and Sciences, and still building cool things along the way. \n
   `,
-  avatarUrl: '/me.png',
+  avatarUrl: '/me.jpg',
   skills: ['React', 'Vue.js', 'Typescript', 'Next.js', 'Nest.js', 'Node.js', 'Supabase', 'Docker'],
   navbar: [
     { href: '/', icon: HomeIcon, label: 'Home' },
