@@ -88,7 +88,7 @@ export const DATA = {
       start: 'Jul 2019',
       end: 'Jul 2020',
       description:
-        'At Mobikok, I focused on building highly interactive platforms, where I independently implemented robust real-time communication (IM) features using Socket.IO and Vue.js. I also developed a cross-platform e-commerce evaluation system (Vue.js/VantUI), ensuring a seamless and responsive user experience across both desktop and mobile devices.',
+        'At Mobikok, I focused on building highly interactive platforms, where I independently implemented robust real-time communication (IM) features using Socket.IO and Vue.js. I also developed a responsive e-commerce evaluation system (Vue.js/VantUI), ensuring a seamless user experience across both desktop and mobile devices.',
     },
     {
       company: '51job',
