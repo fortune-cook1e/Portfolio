@@ -67,7 +67,7 @@ export const DATA = {
 
   work: [
     {
-      company: 'Shenzhen Mingyuanyun Technology Co., Ltd.',
+      company: 'Mingyuanyun Technology',
       href: 'https://www.mingyuanyun.com/',
       badges: [],
       location: 'Shenzhen, China',
@@ -76,7 +76,7 @@ export const DATA = {
       start: 'Jul 2020',
       end: 'May 2023',
       description:
-        'Led frontend and BFF(Backend for Frontend) development for SaaS platforms serving major real estate companies. Designed scalable frontend architectures and drove technical decisions that improved performance and developer efficiency. Built key internal tools — including an API visualization platform, a React-based UI component library, a CLI tool, etc. — to accelerate development workflows. Actively mentored junior developers and interns, fostering a culture of technical excellence and collaboration across teams.',
+        'Led frontend and BFF (Backend for Frontend) development for SaaS platforms serving major real estate companies. I drove technical decisions that significantly improved performance and developer efficiency, notably by migrating the legacy build system to Vite and optimizing the Node.js/Koa.js BFF layer. Built key internal tools to accelerate development workflows, including a scalable React-based UI component library, an internal CLI tool for configuration standardization, and an API visualization platform. Actively mentored junior developers and interns, fostering a culture of technical excellence and collaboration across teams.',
     },
     {
       company: 'Mobikok',
@@ -88,19 +88,19 @@ export const DATA = {
       start: 'Jul 2019',
       end: 'Jul 2020',
       description:
-        'Independently developed a responsive e-commerce evaluation platform (Vue.js, VantUI), enhancing user experience across desktop and mobile devices. Mentored junior developers, providing guidance on front-end architecture, code quality, and best practices.',
+        'At Mobikok, I focused on building highly interactive platforms, where I independently implemented robust real-time communication (IM) features using Socket.IO and Vue.js. I also developed a cross-platform e-commerce evaluation system (Vue.js/VantUI), ensuring a seamless and responsive user experience across both desktop and mobile devices.',
     },
     {
       company: '51job',
       href: 'https://www.51job.com/',
       badges: [],
-      location: 'Wuhan',
+      location: 'Wuhan, China',
       title: 'Software Engineer',
       logoUrl: '/51job.jpeg',
       start: 'Jul 2018',
       end: 'Mar 2019',
       description:
-        'Developed campus recruitment landing pages for top Chinese enterprises. Independently developed a department-wide employee performance management system.',
+        'My initial experience focused on automation and application development. I built a custom Command-Line Interface (CLI) tool to automate the generation of landing page templates, which significantly improved team development efficiency. Concurrently, I independently developed an internal employee performance management system using React and MobX, successfully enabling real-time performance tracking and streamlining evaluation workflows.',
     },
   ],
   education: [
